@@ -2,7 +2,6 @@
 
 🎓 Egresada en Ciencias de la Computación — Universidad Nacional de Colombia  
 💡 Apasionada por el desarrollo de software y la ciencia de datos  
-🚀 En búsqueda de oportunidades como Ingeniera de Software o Científica de Datos  
 
 ---
 
